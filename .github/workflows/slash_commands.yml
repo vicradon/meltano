@@ -1,4 +1,4 @@
-name: Release publish (/publish)
+name: Slack Command Dispatcher
 
 on:
   issue_comment:
