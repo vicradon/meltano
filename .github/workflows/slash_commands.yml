@@ -16,3 +16,4 @@ jobs:
             write
           commands: |
             publish
+
